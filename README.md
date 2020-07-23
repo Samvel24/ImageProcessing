@@ -18,9 +18,12 @@ A continuación se muestran algunas capturas que muestran el funcionamiento de e
 
 ![Inicio]
 (https://github.com/Samvel08/ImageProcessing/blob/master/Imagenes_ejemplo/Inicio.jpg)
+
 ![Resize]
-(https://drive.google.com/file/d/15r4ZsJZERDq4uEqyhUN3jDPleZ3eXwj-/view?usp=sharing)
+(https://github.com/Samvel08/ImageProcessing/blob/master/Imagenes_ejemplo/Inicio.jpg)
+
 ![Recorte]
-(https://drive.google.com/file/d/15r4ZsJZERDq4uEqyhUN3jDPleZ3eXwj-/view?usp=sharing)
+(https://github.com/Samvel08/ImageProcessing/blob/master/Imagenes_ejemplo/Inicio.jpg)
+
 ![Deteccion]
-(https://drive.google.com/file/d/15r4ZsJZERDq4uEqyhUN3jDPleZ3eXwj-/view?usp=sharing)
+(https://github.com/Samvel08/ImageProcessing/blob/master/Imagenes_ejemplo/Inicio.jpg)
