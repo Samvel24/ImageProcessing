@@ -16,14 +16,10 @@ Este proyecto simula algunas de las funciones de los diferentes editores de imag
 ## Capturas de pantalla
 A continuación se muestran algunas capturas que muestran el funcionamiento de este software:
 
-![Inicio]
-(https://github.com/Samvel08/ImageProcessing/blob/master/Imagenes_ejemplo/Inicio.jpg)
+![Inicio](https://github.com/Samvel08/ImageProcessing/blob/master/Imagenes_ejemplo/Inicio.jpg)
 
-![Resize]
-(https://github.com/Samvel08/ImageProcessing/blob/master/Imagenes_ejemplo/Inicio.jpg)
+![Resize](https://github.com/Samvel08/ImageProcessing/blob/master/Imagenes_ejemplo/Resize.jpg)
 
-![Recorte]
-(https://github.com/Samvel08/ImageProcessing/blob/master/Imagenes_ejemplo/Inicio.jpg)
+![Recorte](https://github.com/Samvel08/ImageProcessing/blob/master/Imagenes_ejemplo/Recorte.jpg)
 
-![Deteccion]
-(https://github.com/Samvel08/ImageProcessing/blob/master/Imagenes_ejemplo/Inicio.jpg)
+![Deteccion](https://github.com/Samvel08/ImageProcessing/blob/master/Imagenes_ejemplo/DeteccionObjetos.jpg)
