@@ -22,4 +22,4 @@ A continuación se muestran algunas capturas que muestran el funcionamiento de e
 
 ![Recorte](https://github.com/Samvel08/ImageProcessing/blob/master/Imagenes_ejemplo/Recorte.jpg)
 
-![Deteccion](https://github.com/Samvel08/ImageProcessing/blob/master/Imagenes_ejemplo/DeteccionObjetos.jpg)
+![BrilloContraste](https://github.com/Samvel24/ImageProcessing/blob/master/Imagenes_ejemplo/BrilloContraste.jpg)
